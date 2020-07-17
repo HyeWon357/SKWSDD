@@ -1,0 +1,7 @@
+#video1{
+    width: 100%;
+    height: 1000px;
+    position: relative; /* 원래위치(기본)에서 위치를 지정 */
+    bottom: 35px;
+    box-sizing: border-box;
+ }

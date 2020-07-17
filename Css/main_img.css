@@ -1,0 +1,42 @@
+#main_img1 {
+    height: 1000px;
+    background: url("../img/SKWS_mine_img.jpg") no-repeat;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+
+}
+
+#main_img2 {
+    height: 1000px;
+    background: url("../img/SBOY_main.jpg") no-repeat;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+}
+
+#main_img3{
+    height: 1000px;
+    background: url("../img/sboy_main1.jpg") no-repeat;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+}
+
+#main_img4{
+    width: 50%;
+    height: 1000px;
+    background: url("../img/pic1.jpg") no-repeat;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    filter: brightness(60%); /*이미지 어둡게하기 숫자가 적을수록 어둡게된다*/
+}
+
+#main_img5{
+    width: 50%;
+    height: 1000px;
+    background: url("../img/pic3.jpg") no-repeat;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 1000px;
+    left: 50%;
+    filter: brightness(60%);
+}

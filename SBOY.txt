@@ -1,0 +1,72 @@
+
+
+ /* #div01{
+            width: 300px;
+            height: 300px;
+            background-color: rgb(45, 77, 255);
+        }
+
+        #div01:hover{
+            -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+        } */
+
+        /* video{
+            width: 100%;
+        } */
+
+            <article>
+
+
+                <h3> After June 29. 2002 <h3>
+
+                        <ol>
+
+                            <li>
+                                Their bodies were laid to rest at the Daejeon National Cemetery.
+                            </li><br>
+
+                            <li>
+
+                                In June 29. 2003, To commemorate the first anniversary set up a memorial to the six men
+                                killed in
+                                the war.
+
+                            </li><br>
+
+                            <img src="pic2.jpg" width="50%">
+
+
+                            <li>
+                                In 2007-2008, he created the PKG (Patrol Killer Guided Missiles), named after six fallen
+                                soldiers.
+
+                            </li><br>
+
+                            <img src="pic5.jpg" width=50%>
+
+                            <li>
+                                The salvaged PKM-357 was put on display at the 2nd Naval Fleet in Pyeongtaek.
+
+                            </li><br>
+
+                            <img src="pic6.jpg" width="50%">
+
+                            <li>
+                                In October 2013,'연평해전'movie film was made to bring this history back to the public
+
+                            </li><br>
+
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/QlUyDJM7rfI"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+
+                        </ol>
+
+
+
+        </div>
+    </div>
+
+    </article>
